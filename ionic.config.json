@@ -1,0 +1,7 @@
+{
+  "name": "KaiaApt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
